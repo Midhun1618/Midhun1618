@@ -1,44 +1,45 @@
-  <!--horizontal divider(gradiant)-->
+<!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
+
+<!-- Name Header -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Midhun</h1></summary>
   </ul>
 </div>
-<!--- snake -->
 
-<!--h2 without bottom border-->
+<!-- Tagline -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">"Confusion is part of Programming"</h2></summary>
   </ul>
 </div>
-<!--Intro start-->
+
+<!-- Intro Section -->
 <ul>
-<li>
-<p>🔭 I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
-</li>
-<li>
-<p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
-</li>
-<li>
-<p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
-</li>
-<li>
-<p>📝 I regularly write articles on <a href="https://1010nishant.hashnode.dev/">Hashnode</a></p>
-</li>
-<li>
-<p>💬 Ask me about <strong>AWS, react, react-native, nodejs, mongoDB</strong></p>
-</li>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">nishantjangid6377@gmail.com</a></strong></p>
-</li>
-<li>
-<p>🏠 Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
-</li>
+  <li>
+    <p>🔭 I’m currently working on <strong>React, Android (Kotlin), and Flutter apps</strong></p>
+  </li>
+  <li>
+    <p>🎯 Focused on building projects like <strong>CallMood</strong>, <strong>NoteItUp</strong>, and <strong>BakerBoy</strong></p>
+  </li>
+  <li>
+    <p>📚 Exploring <strong>Flutter</strong> to level up my cross-platform dev game!</p>
+  </li>
+  <li>
+    <p>💬 Ask me about <strong>React, Kotlin, Firebase, or how to name projects like a boss 😎</strong></p>
+  </li>
+  <li>
+    <p>✍️ Sometimes I turn caffeine into UI and dreams into deploys</p>
+  </li>
+  <li>
+    <p>📫 Reach me at <strong><a href="mailto:your_email_here@gmail.com">your_email_here@gmail.com</a></strong></p>
+  </li>
+  <li>
+    <p>🤝 Let’s collab on something cool! GitHub + Figma + Coffee = Magic ☕✨</p>
+  </li>
 </ul>
-<!--Intro end-->
+ntro end-->
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
