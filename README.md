@@ -27,13 +27,10 @@
     <p>📚 Exploring <strong>Flutter</strong> to level up my cross-platform dev game!</p>
   </li>
   <li>
-    <p>💬 Ask me about <strong>React, Kotlin, Firebase, or how to name projects like a boss 😎</strong></p>
+    <p>💬 Ask me about <strong>React, Kotlin, Firebase</strong></p>
   </li>
   <li>
-    <p>✍️ Sometimes I turn caffeine into UI and dreams into deploys</p>
-  </li>
-  <li>
-    <p>📫 Reach me at <strong><a href="mailto:your_email_here@gmail.com">your_email_here@gmail.com</a></strong></p>
+    <p>📫 Reach me at <strong><a href="mailto:midhumidhun342@gmail.com">midhumidhun342@gmail.com</a></strong></p>
   </li>
   <li>
     <p>🤝 Let’s collab on something cool! GitHub + Figma + Coffee = Magic ☕✨</p>
