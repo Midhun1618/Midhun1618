@@ -15,8 +15,6 @@
     <summary><h2 style="display: inline-block">"Confusion is part of Programming"</h2></summary>
   </ul>
 </div>
-
-<!-- Intro Section -->
 <ul>
   <li>
     <p>🔭 I’m currently working on <strong>React, Android (Kotlin), and Flutter apps</strong></p>
