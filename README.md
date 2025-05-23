@@ -1,15 +1,13 @@
-<!-- Gradient Divider -->
+
 <img src="![image](https://github.com/user-attachments/assets/45b36b31-3b5c-4ccd-a582-1c24b083d148)
 ">
 
-<!-- Name Header -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi, I'm Midhun</h1></summary>
   </ul>
 </div>
 
-<!-- Tagline -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">"Confusion is part of Programming"</h2></summary>
