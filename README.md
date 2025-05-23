@@ -18,7 +18,7 @@
     <p>🔭 I’m currently working on <strong>React, Android (Kotlin), and Flutter apps</strong></p>
   </li>
   <li>
-    <p>🎯 Focused on building projects like <strong>CallMood</strong>, <strong>NoteItUp</strong>, and <strong>BakerBoy</strong></p>
+    <p>🎯 Focused on building projects like <strong>CallMood</strong>, <strong>NoteItUp</strong>, <strong>V.O.X</strong>,and <strong>BakerBoy</strong></p>
   </li>
   <li>
     <p>📚 Exploring <strong>Flutter</strong> to level up my cross-platform dev game!</p>
