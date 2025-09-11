@@ -24,7 +24,7 @@
     <p>📚 Exploring <strong>Flutter</strong> to level up my cross-platform dev game!</p>
   </li>
   <li>
-    <p>💬 Ask me about <strong>React, Kotlin, Firebase</strong></p>
+    <p>💬 Experimenting <strong>React, Kotlin, Firebase, MongoDB</strong></p>
   </li>
   <li>
     <p>📫 Reach me at <strong><a href="mailto:midhumidhun342@gmail.com">midhumidhun342@gmail.com</a></strong></p>
