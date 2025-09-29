@@ -15,7 +15,7 @@
 </div>
 <ul>
   <li>
-    <p>🔭 I’m currently working on <strong>React, Android (Kotlin), and Flutter apps</strong></p>
+    <p>🔭 I’m currently working on <strong>React, Android (Kotlin), and Machine Learning</strong></p>
   </li>
   <li>
     <p>🎯 Focused on building projects like <strong>CallMood</strong>, <strong>NoteItUp</strong>, <strong>V.O.X</strong>,and <strong>BakerBoy</strong></p>
