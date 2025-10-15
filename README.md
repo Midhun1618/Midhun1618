@@ -30,6 +30,6 @@
     <p>📫 Reach me at <strong><a href="mailto:midhumidhun342@gmail.com">midhumidhun342@gmail.com</a></strong></p>
   </li>
   <li>
-    <p>🤝 Let’s collab on something cool! GitHub + Figma + Coffee = Magic ☕✨</p>
+    <p>🤝 Let’s collab on something cool! GitHub + Figma + OLD MONK = Magic ☕✨</p>
   </li>
 </ul>
