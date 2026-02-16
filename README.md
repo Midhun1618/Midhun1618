@@ -1,35 +1,71 @@
+<div align="center">
 
-<img src="![image](https://github.com/user-attachments/assets/45b36b31-3b5c-4ccd-a582-1c24b083d148)
-">
+<h1>Hey 👋 I'm Midhun</h1>
+<h3><i>Confusion is part of programming — debugging is enlightenment</i></h3>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Midhun</h1></summary>
-  </ul>
+<p>
+I build apps that try to understand users instead of just waiting for clicks.
+<br>
+Mostly working around productivity, behavior and smart automation.
+</p>
+
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">"Confusion is part of Programming"</h2></summary>
-  </ul>
-</div>
+<br>
+
+<h2>🧠 What I Work With</h2>
+
 <ul>
-  <li>
-    <p>🔭 I’m currently working on <strong>React, Android (Kotlin), and Machine Learning</strong></p>
-  </li>
-  <li>
-    <p>🎯 Focused on building projects like <strong>CallMood</strong>, <strong>NoteItUp</strong>, <strong>V.O.X</strong>,and <strong>BakerBoy</strong></p>
-  </li>
-  <li>
-    <p>📚 Exploring <strong>Flutter</strong> to level up my cross-platform dev game!</p>
-  </li>
-  <li>
-    <p>💬 Experimenting <strong>React, Kotlin, Firebase, MongoDB</strong></p>
-  </li>
-  <li>
-    <p>📫 Reach me at <strong><a href="mailto:midhumidhun342@gmail.com">midhumidhun342@gmail.com</a></strong></p>
-  </li>
-  <li>
-    <p>🤝 Let’s collab on something cool!</p>
-  </li>
+  <li>⚛️ React Web Applications</li>
+  <li>📱 Android Development (Kotlin)</li>
+  <li>🤖 Machine Learning Features</li>
+  <li>🔥 Firebase & MongoDB Backends</li>
+  <li>🐍 Python for logic & ML</li>
 </ul>
+
+<br>
+
+<h2>🚀 Projects</h2>
+
+<table>
+<tr>
+<td><b>V.O.X</b></td>
+<td>Synced phone + PC workspace that behaves like one system</td>
+</tr>
+<tr>
+<td><b>CallMood</b></td>
+<td>Analyzes conversation mood and suggests actions</td>
+</tr>
+<tr>
+<td><b>NoteItUp</b></td>
+<td>Notebook-style task manager designed for daily flow</td>
+</tr>
+<tr>
+<td><b>BakerBoy</b></td>
+<td>Order online → walk in → pick up (no waiting system)</td>
+</tr>
+</table>
+
+<br>
+
+<h2>🌱 Currently Learning</h2>
+
+<p>
+Cross-platform development using <b>Flutter</b> to build once and run everywhere.
+</p>
+
+<br>
+
+<h2>📬 Contact</h2>
+
+<p>
+<b>Email:</b> midhumidhun342@gmail.com
+<br>
+<b>Collab:</b> Always open to interesting ideas and experimental projects
+</p>
+
+<br>
+
+<div align="center">
+<i>"Good software feels simple. The code behind it never is."</i>
+</div>
