@@ -1,0 +1,44 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          background: #0d1117;
+          display: grid;
+          grid-template-columns: 2fr 1fr;
+          grid-gap: 15px;
+          padding: 20px;
+          color: white;
+        }
+        .card {
+          background: #161b22;
+          border-radius: 20px; /* THIS GIVES THE ROUNDED EDGES */
+          padding: 20px;
+          border: 1px solid #30363d;
+        }
+        h2 { color: #7F00FF; margin-top: 0; }
+        .tech-pill {
+          display: inline-block;
+          background: #21262d;
+          border-radius: 10px;
+          padding: 4px 10px;
+          margin: 2px;
+          font-size: 12px;
+        }
+      </style>
+      <div class="container">
+        <div class="card">
+          <h2>🧠 About Me</h2>
+          <p>B.Tech CSE Student @ LPU. Building AI-powered systems and Android apps with clean architectures.</p>
+        </div>
+        <div class="card">
+          <h2>🛠️ Tech</h2>
+          <span class="tech-pill">Kotlin</span>
+          <span class="tech-pill">Python</span>
+          <span class="tech-pill">React</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
