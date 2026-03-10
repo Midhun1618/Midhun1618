@@ -1,42 +1,100 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 950" width="800" height="950" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .container {
-          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-          background: #0d1117;
+        .bento-container {
+          background-color: #0d1117;
+          font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
           display: grid;
-          grid-template-columns: 2fr 1fr;
+          grid-template-columns: repeat(3, 1fr);
           grid-gap: 15px;
           padding: 20px;
-          color: white;
+          color: #e6edf3;
         }
         .card {
           background: #161b22;
-          border-radius: 20px; /* THIS GIVES THE ROUNDED EDGES */
-          padding: 20px;
           border: 1px solid #30363d;
+          border-radius: 24px;
+          padding: 22px;
+          display: flex;
+          flex-direction: column;
         }
-        h2 { color: #7F00FF; margin-top: 0; }
-        .tech-pill {
-          display: inline-block;
-          background: #21262d;
-          border-radius: 10px;
-          padding: 4px 10px;
-          margin: 2px;
-          font-size: 12px;
+        /* Grid Layout */
+        .hero { grid-column: span 2; flex-direction: row; align-items: center; gap: 25px; background: linear-gradient(135deg, #161b22 0%, #1a1033 100%); }
+        .about { grid-column: span 3; border-left: 4px solid #7F00FF; background: #1c152d33; }
+        .project-wide { grid-column: span 2; }
+        .tech { grid-column: span 1; justify-content: center; }
+        .explore-btn { grid-column: span 1; background: #7F00FF; color: white; text-align: center; justify-content: center; font-weight: bold; border: none; }
+        .contact-card { grid-column: span 3; flex-direction: row; justify-content: space-around; align-items: center; background: #1c1c1c; }
+        
+        .profile-img {
+          width: 100px;
+          height: 100px;
+          border-radius: 50%;
+          border: 3px solid #7F00FF;
+          object-fit: cover;
         }
+        h1 { margin: 0; font-size: 30px; color: #7F00FF; }
+        h2 { margin: 0 0 10px 0; font-size: 14px; color: #7F00FF; text-transform: uppercase; letter-spacing: 1.5px; font-weight: 800; }
+        p { margin: 4px 0; font-size: 13.5px; line-height: 1.5; color: #8b949e; }
+        .project-title { font-weight: bold; color: #ffffff; font-size: 17px; margin-bottom: 4px; }
+        .tag { background: #21262d; padding: 3px 8px; border-radius: 8px; font-size: 11px; color: #7F00FF; border: 1px solid #30363d; margin-right: 5px; font-weight: bold; }
+        .contact-item { display: flex; align-items: center; gap: 8px; font-size: 13px; color: #ffffff; text-decoration: none; }
       </style>
-      <div class="container">
-        <div class="card">
-          <h2>🧠 About Me</h2>
-          <p>B.Tech CSE Student @ LPU. Building AI-powered systems and Android apps with clean architectures.</p>
+
+      <div class="bento-container">
+        <div class="card hero">
+          <img src="https://github.com/Midhun1618.png" class="profile-img" /> 
+          <div>
+            <h1>Midhun KP</h1>
+            <p><b>Android Developer • Full Stack • AI Explorer</b></p>
+            <p>📍 B.Tech CSE Student @ LPU</p>
+          </div>
         </div>
-        <div class="card">
+
+        <div class="card tech">
           <h2>🛠️ Tech</h2>
-          <span class="tech-pill">Kotlin</span>
-          <span class="tech-pill">Python</span>
-          <span class="tech-pill">React</span>
+          <p style="color: #c9d1d9; font-size: 12px;">Kotlin • Java • Python • React • Node.js • Firebase • ML/NLP</p>
+        </div>
+
+        <div class="card about">
+          <p style="color: #ffffff; font-size: 15px;">I am a <b>Project Builder</b>. I believe in learning through <b>hands-on experience</b>—turning daily problems into digital solutions while exploring my creative ideas through code.</p>
+        </div>
+
+        <div class="card project-wide">
+          <h2>Featured: VOX Ecosystem</h2>
+          <div class="project-title">Cross-Platform Productivity</div>
+          <p>Synchronized workflow for Android &amp; Windows. Built-in <b>Wake-Word engine</b> and Speech Recognition for hands-free command execution.</p>
+          <div style="margin-top: 8px;">
+            <span class="tag">Kotlin</span><span class="tag">Java</span><span class="tag">Firebase</span><span class="tag">NLP</span>
+          </div>
+        </div>
+
+        <a href="https://voxcom.onrender.com" style="text-decoration: none; grid-column: span 1; display: grid;">
+          <div class="card explore-btn">
+            <span style="font-size: 24px;">🚀</span>
+            <span>Explore Apps</span>
+            <span style="font-size: 10px; opacity: 0.8; margin-top: 5px;">voxcom.onrender.com</span>
+          </div>
+        </a>
+
+        <div class="card project-wide">
+          <h2>RepoScope</h2>
+          <div class="project-title">GitHub Intelligence Platform</div>
+          <p>AI engine analyzing repository health and code maintainability using LLMs and interactive dashboards.</p>
+        </div>
+
+        <div class="card creative" style="grid-column: span 1;">
+          <h2>Creative</h2>
+          <p style="color: white; font-size: 12px; margin: 2px 0;">• Film Editor</p>
+          <p style="color: white; font-size: 12px; margin: 2px 0;">• Cinematography</p>
+          <p style="color: white; font-size: 12px; margin: 2px 0;">• UI Design</p>
+        </div>
+
+        <div class="card contact-card">
+          <div class="contact-item">📧 midhumidhun342@gmail.com</div>
+          <div class="contact-item">🔗 linkedin.com/in/midhun-kp</div>
+          <div class="contact-item">💻 github.com/Midhun1618</div>
         </div>
       </div>
     </div>
