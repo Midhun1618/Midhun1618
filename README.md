@@ -1,4 +1,7 @@
 <div align="center"gap=45px>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWZueGNlODNsaHF1bDcweWtxemI2d3podDI3aTQyZzFzbG01MjlkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/><br>
+</div>
+<div align="center"gap=45px>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Midhun+KP+%F0%9F%91%8B;Android+%26+AI+Developer;Building+things+that+matter.)
 
