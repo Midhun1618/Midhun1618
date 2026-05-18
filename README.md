@@ -20,10 +20,10 @@
 
 I build Android apps and AI-powered tools that solve real problems. From a cross-platform voice-controlled productivity ecosystem spanning Android and Windows, to an AI health assistant currently in **Google Play Store closed testing** — my projects are focused on making technology feel useful, not just functional.
 
-- 🎓 Final-year B.Tech CSE at **Lovely Professional University** — Specialization: Machine Learning, Minor: Android Development
-- 🚀 Currently shipping **HAAi** to the Play Store
-- 🔍 Open to **junior developer roles & internships**
-- 📬 Reach me at **midhunkp.work@gmail.com**
+- Final-year B.Tech CSE at **Lovely Professional University** — Specialization: Machine Learning, Minor: Android Development
+- Currently shipping **HAAi** to the Play Store
+- Open to **junior developer roles & internships**
+- Reach me at **midhunkp.work@gmail.com**
 
 ---
 
@@ -107,7 +107,7 @@ An Android game where the player guides a ball through obstacles and into a hole
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -133,7 +133,7 @@ An Android game where the player guides a ball through obstacles and into a hole
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
