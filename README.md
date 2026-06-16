@@ -1,9 +1,9 @@
 <div align="center"gap=45px>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWZueGNlODNsaHF1bDcweWtxemI2d3podDI3aTQyZzFzbG01MjlkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/><br>
 </div>
-<div align="center"gap=45px>
+<div align="center"gap="45px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Midhun+KP+%F0%9F%91%8B;Android+%26+AI+Developer;Building+things+that+matter.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Midhun+KP+%F0%9F%91%8B;Android+Developer+%26+AI+Engineer;Building+things+that+matter.)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-midhunkp.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://midhunkp.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-midhun--kp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/midhun-kp)<br>
@@ -15,12 +15,69 @@
 </div>
 
 ---
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### OctoVector AI — Advanced RAG System
+A production-style Retrieval-Augmented Generation system with hybrid search (FAISS + BM25), Reciprocal Rank Fusion, and Cross-Encoder reranking. Evaluated on 136 benchmark questions across 1,197 chunks — achieving **98.53% retrieval accuracy** with 1.15s average latency.
+
+`Python` `FastAPI` `React` `FAISS` `BM25` `Gemini` `SentenceTransformers`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Midhun1618/OctoVector-AI)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://octovector-ai.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+### HAAi — Health Assistance AI
+An AI-powered Android health assistant that analyzes symptoms to provide health awareness, preventive tips, and emergency guidance using Gemini AI.
+
+> 🟢 **Google Play Store — Closed Testing Active**
+
+`Kotlin` `Android` `Firebase` `Gemini AI`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Midhun1618/HAAi)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### VOX — Cross-Platform Ecosystem
+Android + Windows Desktop productivity system with real-time Firebase sync, secure device pairing, and a full voice pipeline — wake-word detection, speech recognition, and 15+ system commands.
+
+`Kotlin` `Java` `Firebase` `Speech Recognition`
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Midhun1618/VOX-Android)
+[![Desktop](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/Midhun1618/VOX-PC)
+
+</td>
+
+<td width="50%" valign="top">
+
+### RepoScope — GitHub Analytics
+Full-stack GitHub analytics platform using rule-based scoring + LLM interpretation to evaluate repo health, risk, consistency, and evolution. Deployed with CI/CD.
+
+`React` `Node.js` `GitHub API` `OpenRouter AI`
+
+[![Live](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=render&logoColor=white)](https://reposcope-for-dev.onrender.com)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Midhun1618/RepoScope)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## About Me
 
 I build Android apps and AI-powered tools that solve real problems. From a cross-platform voice-controlled productivity ecosystem spanning Android and Windows, to an AI health assistant currently in **Google Play Store closed testing** — my projects are focused on making technology feel useful, not just functional.
 
 - Final-year B.Tech CSE at **Lovely Professional University** — Specialization: Machine Learning, Minor: Android Development
+- Built **OctoVector AI** — a RAG system hitting **98.53% retrieval accuracy** on 136 benchmark questions
 - Currently shipping **HAAi** to the Play Store
 - Open to **junior developer roles & internships**
 - Reach me at **midhunkp.work@gmail.com**
@@ -48,62 +105,6 @@ I build Android apps and AI-powered tools that solve real problems. From a cross
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### HAAi — Health Assistance AI
-An AI-powered Android health assistant that analyzes symptoms to provide health awareness, preventive tips, and emergency guidance using Gemini AI.
-
-> 🟢 **Google Play Store — Closed Testing Active**
-
-`Kotlin` `Android` `Firebase` `Gemini AI`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Midhun1618/HAAi)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔊 VOX — Cross-Platform Ecosystem
-Android + Windows Desktop productivity system with real-time Firebase sync, secure device pairing, and a full voice pipeline — wake-word detection, speech recognition, and 15+ system commands.
-
-`Kotlin` `Java` `Firebase` `Speech Recognition`
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Midhun1618/VOX-Android)
-[![Desktop](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/Midhun1618/VOX-PC)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 RepoScope — GitHub Analytics
-Full-stack GitHub analytics platform using rule-based scoring + LLM interpretation to evaluate repo health, risk, consistency, and evolution. Deployed with CI/CD.
-
-`React` `Node.js` `GitHub API` `OpenRouter AI`
-
-[![Live](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=render&logoColor=white)](https://reposcope-for-dev.onrender.com)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Midhun1618/RepoScope)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 RollingBall — Motion-Controlled Game
-An Android game where the player guides a ball through obstacles and into a hole by physically tilting the device. Uses the accelerometer sensor for real-time motion input, with multiple levels of increasing difficulty, walls, spikes, and interactive hole controls.
-
-`Kotlin` `Android` `Accelerometer` `Game Development`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Midhun1618/RollingBall)
-[![Download](https://img.shields.io/badge/Download_APK-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Midhun1618/RollingBall/releases)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -147,6 +148,6 @@ An Android game where the player guides a ball through obstacles and into a hole
 
 *Open to junior developer roles, internships, and freelance projects.*
 
-**`midhunkp.work@gmail.com`** · **`+91 7902219648`**
+**`midhunkp.work@gmail.com`**
 
 </div>
